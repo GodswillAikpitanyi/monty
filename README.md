@@ -186,7 +186,7 @@ Monty Files:
 -   The rotr opcode
 -   The opcode rotr rotates the stack to the bottom.
 
-## Autors
+## Author:
 
 * **Godswill Aikpitanyi** - [GodswillAikpitanyi](https://github.com/Godswillaikpitanyi)
 
